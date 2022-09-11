@@ -1,4 +1,3 @@
 package ru.netology
 
-class PostType {
-}
+enum class PostType {post, copy, reply, postpone, suggest}
